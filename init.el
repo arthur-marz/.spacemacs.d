@@ -47,10 +47,11 @@ values."
      clojure
      scheme
      javascript
-     themes-megapack
-     html
-     helm
+     haskell
      emacs-lisp
+     html
+     themes-megapack
+     helm
      (auto-completion :variables
                       auto-completion-enable-help-tooltip t
                       auto-completion-enable-snippets-in-popup t
